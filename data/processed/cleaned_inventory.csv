@@ -1,0 +1,51 @@
+item_id,product_name,category,brand,size,condition,cost,list_price,date_added,status,margin,margin_percent
+1001,Vintage Levi's 501 Jeans,Denim,Levi's,32,Good,28,78,2026-01-10,In Stock,50,178.57
+1002,Harley Davidson Tee,Tops,Harley Davidson,L,Excellent,18,55,2026-01-12,Sold,37,205.56
+1003,Wool Varsity Jacket,Outerwear,Unknown,M,Good,42,140,2026-01-18,Sold,98,233.33
+1004,Canvas Utility Overalls,Workwear,Levi's,34,Fair,36,95,2026-01-20,In Stock,59,163.89
+1005,Midnight Floral Dress,Dresses,Vintage Collective,S,Good,24,69,2026-01-25,In Stock,45,187.5
+1006,Retro Corduroy Pants,Bottoms,Urban Stitch,32,Excellent,30,92,2026-01-27,Sold,62,206.67
+1007,Bombshell Satin Blazer,Outerwear,Elle Belle,M,Excellent,70,210,2026-01-30,Sold,140,200.0
+1008,Flannel Button Shirt,Tops,Patagonia,L,Good,22,75,2026-02-01,In Stock,53,240.91
+1009,Denim Biker Jacket,Outerwear,Wrangler,38,Good,60,175,2026-02-02,Sold,115,191.67
+1010,Printed Crop Tee,Tops,Urban Threads,S,Good,12,39,2026-02-03,In Stock,27,225.0
+1011,Slimfit Leather Belt,Accessories,Dexter,One Size,Excellent,14,44,2026-02-03,In Stock,30,214.29
+1012,Wool Scarf,Accessories,Old Mill,M,Good,8,28,2026-02-05,Sold,20,250.0
+1013,High Waist Pleated Skirt,Dresses,River City,One Size,Good,20,58,2026-02-06,In Stock,38,190.0
+1014,Vintage Varsity Hat,Accessories,Unknown,M,Fair,10,24,2026-02-06,In Stock,14,140.0
+1015,Coach Jacket,Sportswear,Northwind,L,Excellent,45,130,2026-02-07,Reserved,85,188.89
+1016,Black Cashmere Scarf,Accessories,Lancome,M,Excellent,18,60,2026-02-08,In Stock,42,233.33
+1017,Chino Shorts,Bottoms,Levi's,30,Good,20,52,2026-02-09,In Stock,32,160.0
+1018,Sailor Knit Sweater,Tops,SeaCloud,M,Good,26,80,2026-02-10,Sold,54,207.69
+1019,Workwear Overalls,Workwear,Denim Co,36,Good,34,120,2026-02-11,In Stock,86,252.94
+1020,Retro Satin Skirt,Dresses,Moonlight,M,Good,25,82,2026-02-12,In Stock,57,228.0
+1021,Lightweight Puffer Jacket,Outerwear,Northwind,L,Good,40,125,2026-02-12,Sold,85,212.5
+1022,Graphic Tee Pack,Tops,Urban Street,L,Good,16,49,2026-02-13,In Stock,33,206.25
+1023,Vintage Wool Coat,Outerwear,Old Mill,L,Good,85,260,2026-02-14,In Stock,175,205.88
+1024,Silk Blouse,Tops,Maison Bleu,M,Excellent,42,125,2026-02-14,Sold,83,197.62
+1025,Leather Belt Bag,Accessories,Unknown,S,Good,28,88,2026-02-15,In Stock,60,214.29
+1026,Chambray Shirt,Tops,Levi's,M,Good,23,70,2026-02-16,In Stock,47,204.35
+1027,Distressed Leather Jacket,Outerwear,Vintage Collective,L,Fair,55,180,2026-02-16,Sold,125,227.27
+1028,Classic White Sneakers,Shoes,Baseline,8,Good,32,110,2026-02-17,In Stock,78,243.75
+1029,Striped Knit Socks,Accessories,SeaCloud,M,Good,6,18,2026-02-18,In Stock,12,200.0
+1030,Platform Loafers,Shoes,Unknown,9,Excellent,40,150,2026-02-18,Sold,110,275.0
+1031,Denim Mini Skirt,Dresses,Levi's,S,Good,20,66,2026-02-19,In Stock,46,230.0
+1032,Utility Jacket,Outerwear,Rivermark,L,Good,48,132,2026-02-20,In Stock,84,175.0
+1033,Layered Turtleneck,Tops,Old Mill,M,Excellent,18,62,2026-02-20,Sold,44,244.44
+1034,Quilted Shoulder Bag,Accessories,Harbor,L,Good,30,99,2026-02-21,In Stock,69,230.0
+1035,Graphic Hoodie,Tops,Streetlight,M,Good,35,140,2026-02-21,Sold,105,300.0
+1036,Round Sunglasses,Accessories,Visionary,One Size,Good,16,35,2026-02-22,In Stock,19,118.75
+1037,Vintage Denim Jacket,Outerwear,Levi's,M,Good,50,145,2026-02-23,In Stock,95,190.0
+1038,Crochet Vest,Tops,Handmade,L,Good,15,55,2026-02-23,In Stock,40,266.67
+1039,Skater Denim Dress,Dresses,Denim Co,S,Excellent,34,98,2026-02-24,In Stock,64,188.24
+1040,Work Boots,Shoes,WorkLine,10,Good,55,170,2026-02-25,Sold,115,209.09
+1041,High Top Trainers,Shoes,Fleet,S,Good,38,145,2026-02-25,In Stock,107,281.58
+1042,Soft Knit Hat,Accessories,Northwind,M,Good,12,31,2026-02-26,In Stock,19,158.33
+1043,Relaxed Linen Pants,Bottoms,SeaCloud,L,Good,22,63,2026-02-26,In Stock,41,186.36
+1044,Velvet Blazer,Outerwear,Maison Bleu,L,Excellent,65,220,2026-02-27,Reserved,155,238.46
+1045,Patterned Belt,Accessories,Unknown,M,Good,11,34,2026-02-28,In Stock,23,209.09
+1046,Athleisure Jacket,Sportswear,FitLife,L,Good,58,165,2026-03-01,Sold,107,184.48
+1047,Retro Swim Shorts,Bottoms,Coastal,S,Good,18,54,2026-03-02,In Stock,36,200.0
+1048,Vintage Windbreaker,Outerwear,Northwind,M,Fair,27,84,2026-03-03,In Stock,57,211.11
+1049,Checked Button Shirt,Tops,Rural Tailor,L,Good,29,88,2026-03-04,Sold,59,203.45
+1050,Long Wool Coat,Outerwear,Old Mill,XL,Excellent,95,280,2026-03-05,Sold,185,194.74

@@ -1,0 +1,21 @@
+customer_id,first_purchase_date,preferred_channel,city
+c001,2025-12-01,In-store,Chicago
+c002,2025-12-05,Instagram,Seattle
+c003,2025-12-12,Depop,Atlanta
+c004,2025-12-18,Etsy,Denver
+c005,2025-12-20,Facebook,Phoenix
+c006,2026-01-02,Instagram,New York
+c007,2026-01-09,In-store,Austin
+c008,2026-01-10,Etsy,Portland
+c009,2026-01-13,Facebook,Miami
+c010,2026-01-20,Instagram,Boston
+c011,2026-01-21,Depop,Boston
+c012,2026-01-25,Instagram,Detroit
+c013,2026-01-29,In-store,New York
+c014,2026-02-02,Depop,Houston
+c015,2026-02-07,Etsy,Chicago
+c016,2026-02-11,In-store,Orlando
+c017,2026-02-14,Instagram,Seattle
+c018,2026-02-18,Facebook,Denver
+c019,2026-02-21,Instagram,San Diego
+c020,2026-02-26,In-store,Portland
