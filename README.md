@@ -128,6 +128,8 @@ brew install codex
 codex
 ```
 
+The first time you run `codex`, it will ask you to sign in. Use your ChatGPT account in the browser, or use an OpenAI API key if you already have one.
+
 Create a local checkpoint before asking Codex to edit files:
 
 ```bash
