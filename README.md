@@ -1,4 +1,5 @@
 # Park Vintage Data Lab
+**GitHub repo:** https://github.com/AbdusM/park-vintage-data-lab
 
 Park Vintage is a small clothing store with messy inventory and sales data.
 
@@ -58,14 +59,14 @@ You need:
 
 ```bash
 # macOS/Linux
-git clone <repo-url>
+git clone https://github.com/AbdusM/park-vintage-data-lab.git
 cd park-vintage-data-lab
 ```
 
 ```powershell
 # Windows
- git clone <repo-url>
- cd park-vintage-data-lab
+git clone https://github.com/AbdusM/park-vintage-data-lab.git
+cd park-vintage-data-lab
 ```
 
 ## Step 2: Learn basic terminal commands
