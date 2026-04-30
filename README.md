@@ -116,6 +116,16 @@ Open `notebooks/04_sql_for_store_data.ipynb`.
 
 ## Install Codex in your terminal
 
+First, check whether Codex is already installed:
+
+```bash
+codex --version
+```
+
+If you see a version number, you can skip the install step and run `codex`.
+
+If your terminal says `command not found`, install Codex with npm:
+
 ```bash
 npm i -g @openai/codex
 codex
