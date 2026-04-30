@@ -41,6 +41,7 @@ The store owner wants answers to questions like:
 - Install dependencies
 - Use JupyterLab
 - Load and inspect CSV files with pandas
+- Make simple charts in a notebook
 - Run SQL queries against SQLite
 - Build small scripts and notebooks
 - Work with Git checkpoints
@@ -189,7 +190,7 @@ Use `notebooks/02_python_inventory_basics.ipynb`.
 
 ### Mission 3: Analyze sales
 
-Use `notebooks/03_sales_analysis_with_pandas.ipynb`.
+Use `notebooks/03_sales_analysis_with_pandas.ipynb`. This notebook includes an optional first chart using `matplotlib`.
 
 ### Mission 4: Learn SQL with store data
 
