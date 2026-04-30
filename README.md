@@ -53,8 +53,29 @@ You need:
 
 - Python 3.10+
 - Git
-- `npm` (for Codex install) or Homebrew on macOS
+- Node.js LTS, which includes `npm` for installing Codex
 - Internet access for package installation
+
+Check your tools:
+
+```bash
+python --version
+git --version
+node --version
+npm --version
+```
+
+If `python --version` does not work on macOS or Linux, try:
+
+```bash
+python3 --version
+```
+
+If neither command works, install Python from https://www.python.org/downloads/.
+
+If `git --version` says `command not found`, install Git from https://git-scm.com/downloads.
+
+If `node --version` or `npm --version` says `command not found`, install the LTS version of Node.js from https://nodejs.org/. Then close and reopen your terminal and run the checks again.
 
 ## Step 1: Download the project
 
@@ -92,6 +113,14 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
+If `python` does not work on macOS or Linux, use `python3`:
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+```
+
 ```powershell
 python -m venv .venv
 .venv\Scripts\activate
@@ -116,29 +145,36 @@ Open `notebooks/04_sql_for_store_data.ipynb`.
 
 ## Install Codex in your terminal
 
-First, check whether Codex is already installed:
+This project assumes you are installing Codex for the first time.
+
+First, make sure `npm` works:
 
 ```bash
-codex --version
+npm --version
 ```
 
-If you see a version number, you can skip the install step and run `codex`.
-
-If your terminal says `command not found`, install Codex with npm:
+If that prints a version number, install Codex:
 
 ```bash
 npm i -g @openai/codex
+```
+
+Then run Codex:
+
+```bash
 codex
 ```
 
-Alternative:
+The first time you run `codex`, it will ask you to sign in. Use your ChatGPT account in the browser, or use an OpenAI API key if you already have one.
+
+If `npm --version` says `command not found`, install Node.js LTS from https://nodejs.org/ first. Node.js includes `npm`.
+
+Optional macOS alternative if you already use Homebrew:
 
 ```bash
 brew install codex
 codex
 ```
-
-The first time you run `codex`, it will ask you to sign in. Use your ChatGPT account in the browser, or use an OpenAI API key if you already have one.
 
 Create a local checkpoint before asking Codex to edit files:
 
